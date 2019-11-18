@@ -1,0 +1,17 @@
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\bin\Debug\netcoreapp2.1\CapstoneTests.deps.json
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\bin\Debug\netcoreapp2.1\CapstoneTests.runtimeconfig.json
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\bin\Debug\netcoreapp2.1\CapstoneTests.runtimeconfig.dev.json
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\bin\Debug\netcoreapp2.1\CapstoneTests.dll
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\bin\Debug\netcoreapp2.1\CapstoneTests.pdb
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\obj\Debug\netcoreapp2.1\CapstoneTests.csprojAssemblyReference.cache
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\obj\Debug\netcoreapp2.1\CapstoneTests.csproj.CoreCompileInputs.cache
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\obj\Debug\netcoreapp2.1\CapstoneTests.AssemblyInfoInputs.cache
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\obj\Debug\netcoreapp2.1\CapstoneTests.AssemblyInfo.cs
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\obj\Debug\netcoreapp2.1\CapstoneTests.dll
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\obj\Debug\netcoreapp2.1\CapstoneTests.pdb
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\bin\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\bin\Debug\netcoreapp2.1\Capstone.pdb
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\obj\Debug\netcoreapp2.1\CapstoneTests.csproj.CopyComplete

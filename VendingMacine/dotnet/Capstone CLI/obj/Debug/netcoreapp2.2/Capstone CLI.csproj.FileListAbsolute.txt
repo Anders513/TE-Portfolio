@@ -1,0 +1,28 @@
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\obj\Debug\netcoreapp2.2\Capstone CLI.csprojAssemblyReference.cache
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\obj\Debug\netcoreapp2.2\Capstone CLI.csproj.CoreCompileInputs.cache
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\obj\Debug\netcoreapp2.2\Capstone CLI.AssemblyInfoInputs.cache
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\obj\Debug\netcoreapp2.2\Capstone CLI.AssemblyInfo.cs
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\bin\Debug\netcoreapp2.2\Capstone CLI.deps.json
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\bin\Debug\netcoreapp2.2\Capstone CLI.runtimeconfig.json
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\bin\Debug\netcoreapp2.2\Capstone CLI.runtimeconfig.dev.json
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\bin\Debug\netcoreapp2.2\Capstone CLI.dll
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\bin\Debug\netcoreapp2.2\Capstone CLI.pdb
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\bin\Debug\netcoreapp2.2\Capstone.dll
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\bin\Debug\netcoreapp2.2\Capstone.pdb
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\obj\Debug\netcoreapp2.2\Capstone CLI.csproj.CopyComplete
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\obj\Debug\netcoreapp2.2\Capstone CLI.dll
+C:\Users\Student\Workspace\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\obj\Debug\netcoreapp2.2\Capstone CLI.pdb
+C:\Users\Student\Workspace\Legacy Group Exercises\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\bin\Debug\netcoreapp2.2\Capstone CLI.deps.json
+C:\Users\Student\Workspace\Legacy Group Exercises\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\bin\Debug\netcoreapp2.2\Capstone CLI.runtimeconfig.json
+C:\Users\Student\Workspace\Legacy Group Exercises\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\bin\Debug\netcoreapp2.2\Capstone CLI.runtimeconfig.dev.json
+C:\Users\Student\Workspace\Legacy Group Exercises\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\bin\Debug\netcoreapp2.2\Capstone CLI.dll
+C:\Users\Student\Workspace\Legacy Group Exercises\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\bin\Debug\netcoreapp2.2\Capstone CLI.pdb
+C:\Users\Student\Workspace\Legacy Group Exercises\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\bin\Debug\netcoreapp2.2\Capstone.dll
+C:\Users\Student\Workspace\Legacy Group Exercises\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\bin\Debug\netcoreapp2.2\Capstone.pdb
+C:\Users\Student\Workspace\Legacy Group Exercises\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\obj\Debug\netcoreapp2.2\Capstone CLI.csprojAssemblyReference.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\obj\Debug\netcoreapp2.2\Capstone CLI.csproj.CoreCompileInputs.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\obj\Debug\netcoreapp2.2\Capstone CLI.AssemblyInfoInputs.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\obj\Debug\netcoreapp2.2\Capstone CLI.AssemblyInfo.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\obj\Debug\netcoreapp2.2\Capstone CLI.csproj.CopyComplete
+C:\Users\Student\Workspace\Legacy Group Exercises\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\obj\Debug\netcoreapp2.2\Capstone CLI.dll
+C:\Users\Student\Workspace\Legacy Group Exercises\team5-c-week4-pair-exercises\19_Capstone\dotnet\Capstone CLI\obj\Debug\netcoreapp2.2\Capstone CLI.pdb
