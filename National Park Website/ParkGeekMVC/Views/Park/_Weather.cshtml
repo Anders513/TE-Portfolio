@@ -1,0 +1,66 @@
+﻿<div class="container">
+    <ul class="nav nav-tabs">
+        <li class="active">
+            <a href="#1" data-toggle="tab">°F</a>
+        </li>
+        <li>
+            <a href="#2" data-toggle="tab">°C</a>
+        </li>
+    </ul>
+    <div class="tab-content">
+        @for (int i = 1; i <= 2; i++)
+        {
+            string active = "";
+            @if (i == 1)
+            {
+                active = "active";
+            }
+            <div class="tab-pane @active" id="@i">
+                <div class="park_weather">
+                    @foreach (var day in Model.Weather)
+                    {
+                        if (day.FiveDayForecastValue == 1)
+                        {
+                            <div class="weather_today">
+                                <h2>Today</h2>
+                                <img class="weather_sm_img" src="~/img/weather/@(day.Forecast).png" alt="weather_image" />
+                                <div class="today_temp">
+                                    @if (i == 1)
+                                    {
+                                        <p><b>High</b> @day.HighTemp</p>
+                                        <p><b>Low</b> @day.LowTemp</p>
+                                    }
+                                    else
+                                    {
+                                        <p><b>High</b> @Model.FahrenheitToCelsius(day.HighTemp)</p>
+                                        <p><b>Low</b> @Model.FahrenheitToCelsius(day.LowTemp)</p>
+                                    }
+                                </div>
+                                <div class="today_description">
+                                    <p>@Model.ForecastDescription(day.Forecast)</p>
+                                </div>
+                            </div>}
+                        else
+                        {
+                            <div class="weather_days">
+                                <h4>@Model.CurrentDay(day.FiveDayForecastValue)</h4>
+                                <img class="weather_sm_img" src="~/img/weather/@(day.Forecast).png" alt="weather_image" />
+                                @if (i == 1)
+                                {
+                                    <p><b>High</b> @day.HighTemp</p>
+                                    <p><b>Low</b> @day.LowTemp</p>
+                                }
+                                else
+                                {
+                                    <p><b>High</b> @Model.FahrenheitToCelsius(day.HighTemp)</p>
+                                    <p><b>Low</b> @Model.FahrenheitToCelsius(day.LowTemp)</p>
+                                }
+                            </div>
+                        }
+                    }
+
+                </div>
+            </div>
+        }
+    </div>
+</div>          

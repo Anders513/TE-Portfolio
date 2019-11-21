@@ -1,0 +1,18 @@
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\bin\Debug\netcoreapp2.2\Campground.deps.json
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\bin\Debug\netcoreapp2.2\Campground.dll
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\bin\Debug\netcoreapp2.2\Campground.pdb
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\obj\Debug\netcoreapp2.2\Campground.csproj.CoreCompileInputs.cache
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\obj\Debug\netcoreapp2.2\Campground.AssemblyInfoInputs.cache
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\obj\Debug\netcoreapp2.2\Campground.AssemblyInfo.cs
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\obj\Debug\netcoreapp2.2\Campground.dll
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\obj\Debug\netcoreapp2.2\Campground.pdb
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\obj\Debug\netcoreapp2.2\Campground.csprojAssemblyReference.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\bin\Debug\netcoreapp2.2\Campground.deps.json
+C:\Users\Student\Workspace\Legacy Group Exercises\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\bin\Debug\netcoreapp2.2\Campground.dll
+C:\Users\Student\Workspace\Legacy Group Exercises\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\bin\Debug\netcoreapp2.2\Campground.pdb
+C:\Users\Student\Workspace\Legacy Group Exercises\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\obj\Debug\netcoreapp2.2\Campground.csprojAssemblyReference.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\obj\Debug\netcoreapp2.2\Campground.csproj.CoreCompileInputs.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\obj\Debug\netcoreapp2.2\Campground.AssemblyInfoInputs.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\obj\Debug\netcoreapp2.2\Campground.AssemblyInfo.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\obj\Debug\netcoreapp2.2\Campground.dll
+C:\Users\Student\Workspace\Legacy Group Exercises\team8-c-week6-pair-exercises\09_Capstone\dotnet\Campground\obj\Debug\netcoreapp2.2\Campground.pdb

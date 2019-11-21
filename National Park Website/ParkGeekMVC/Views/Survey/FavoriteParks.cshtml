@@ -1,0 +1,22 @@
+﻿@using ParkGeek.DAL.Models;
+@model IList<SurveyResult>
+@section Title {
+    National Park Geek
+}
+
+<h2>Favorite Park Survey Results</h2>
+
+@foreach (var result in Model)
+{
+    <div class="favorite_park">
+            <img src="~/img/parks/@(result.ParkCode).jpg" alt="park_img" />
+            <div class="park_data">
+                <div>
+                    <h2>@result.ParkName</h2>
+                </div>
+                <div>
+                    <h2 class="survey_number">Number of Votes: @result.NumberOfReviews</h2>
+                </div>
+            </div>
+    </div>
+}

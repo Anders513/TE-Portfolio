@@ -1,0 +1,73 @@
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeekMVC.deps.json
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeekMVC.runtimeconfig.json
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeekMVC.runtimeconfig.dev.json
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeekMVC.dll
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeekMVC.pdb
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeekMVC.Views.dll
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeekMVC.Views.pdb
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeek.dll
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\Security.dll
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeek.pdb
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\Security.pdb
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.csprojAssemblyReference.cache
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.csproj.CoreCompileInputs.cache
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.RazorAssemblyInfo.cache
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.RazorAssemblyInfo.cs
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.AssemblyInfoInputs.cache
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.AssemblyInfo.cs
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.TagHelpers.input.cache
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.TagHelpers.output.cache
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.RazorCoreGenerate.cache
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\Park\Index.g.cshtml.cs
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\Park\Privacy.g.cshtml.cs
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Register.g.cshtml.cs
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.Views.pdb
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.csproj.CopyComplete
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.dll
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.pdb
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\Park\Detail.g.cshtml.cs
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\Survey\FavoriteParks.g.cshtml.cs
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\Survey\Index.g.cshtml.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeekMVC.deps.json
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeekMVC.runtimeconfig.json
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeekMVC.runtimeconfig.dev.json
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeekMVC.dll
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeekMVC.pdb
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeekMVC.Views.dll
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeekMVC.Views.pdb
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeek.dll
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\Security.dll
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\ParkGeek.pdb
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\bin\Debug\netcoreapp2.2\Security.pdb
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.csprojAssemblyReference.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.csproj.CoreCompileInputs.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.RazorAssemblyInfo.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.RazorAssemblyInfo.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.AssemblyInfoInputs.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.AssemblyInfo.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.TagHelpers.input.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.TagHelpers.output.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.RazorCoreGenerate.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\Park\Detail.g.cshtml.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\Park\Index.g.cshtml.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\Park\Privacy.g.cshtml.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\Survey\FavoriteParks.g.cshtml.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\Survey\Index.g.cshtml.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\User\Register.g.cshtml.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.Views.pdb
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.csproj.CopyComplete
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.dll
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\ParkGeekMVC.pdb
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeekMVC\obj\Debug\netcoreapp2.2\Razor\Views\Park\_Weather.g.cshtml.cs

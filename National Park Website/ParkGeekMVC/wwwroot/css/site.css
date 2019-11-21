@@ -1,0 +1,163 @@
+﻿
+.error {
+    color: red;
+}
+.navbar-brand > img{
+    width: 25%;
+    padding-bottom: 20px;
+}
+.form_entry {
+    margin: 0% 30%;
+}
+.body-content {
+    margin-top: 150px;
+    min-height: 100vh;
+}
+.nav {
+    padding-top: 30px;
+}
+
+/*home page css*/
+.park_listing{
+    display: flex;
+    padding: 0px 25px 25px 0px; 
+}
+.park_text div{
+    margin: 20px;
+}
+
+/*detail page css*/
+.top_container {
+    display: flex;    
+}
+.park_img_detail {
+    width: 50%;
+}
+.park_img_detail img{
+    width: 100%;
+}
+.park_text{
+    padding: 0px 60px;
+}
+.weather_sm_img {
+    width: 70%;
+}
+.park_weather {
+    display: flex;
+}
+.weather_today {
+    text-align: center;
+    width: 40%;
+}
+.weather_days {
+    width: 20%;
+    text-align:center;
+    margin: auto;
+}
+.weather_days > p {
+   font-size: 16px;
+}
+.today_temp {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.today_temp p{
+    padding: 0px 5px;
+    font-size: 18px;
+}
+
+/*survey page css*/
+.survey_form {
+    margin-right: 50%;
+}
+.radio_options {
+    display: flex;
+    width: 100%;
+}
+.option{
+    display:flex;
+    width: 100%;
+}
+input[type=radio] {
+    box-shadow: none;
+    width: 20%;
+    height: 1em;
+}
+
+/*favorit page CSS*/
+.favorite_park{
+    display: flex;
+    align-items:center;
+    padding-bottom: 15px;
+}
+.favorite_park img{
+    width:30%;
+}
+.park_data {
+    width:70%;
+}
+.favorite_park div {
+    padding: 10px 10px;
+}
+.survey_number {
+    width: 40%;
+    padding:4px 9px;
+    border: 3px solid black;
+}
+/*footer*/
+footer {
+    height: 30px;
+    margin-top: 20px;
+    background-color: #1a1a1a;
+}
+
+
+
+@media screen and (max-width: 1000px) {
+    .park_listing {
+        display: block;
+        width: 100%;
+    }
+
+    .park_text {
+        padding: 0;
+    }
+
+    .park_text div {
+        margin: 0px;
+    }
+
+    .top_container {
+        display: block;
+    }
+    .park_img_detail {
+        width: 90%;
+        margin:auto;
+    }
+    .park_img_detail img {
+        width: 100%;
+    }
+    .park_weather {
+       width:100%;
+    }
+    .navbar-header{
+        display:flex;
+        flex-direction:row-reverse;
+    }
+    .body-content {
+        margin-top: 100px;
+    }
+    nav{
+        height:80px;
+    }
+    .navbar-brand img{
+        width: 50%;
+    }
+ 
+
+}
+
+
+
+

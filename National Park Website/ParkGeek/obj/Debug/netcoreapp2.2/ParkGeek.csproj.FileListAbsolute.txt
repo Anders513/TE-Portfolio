@@ -1,0 +1,24 @@
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\bin\Debug\netcoreapp2.2\ParkGeek.deps.json
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\bin\Debug\netcoreapp2.2\ParkGeek.dll
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\bin\Debug\netcoreapp2.2\ParkGeek.pdb
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\bin\Debug\netcoreapp2.2\Security.dll
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\bin\Debug\netcoreapp2.2\Security.pdb
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\obj\Debug\netcoreapp2.2\ParkGeek.csprojAssemblyReference.cache
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\obj\Debug\netcoreapp2.2\ParkGeek.csproj.CoreCompileInputs.cache
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\obj\Debug\netcoreapp2.2\ParkGeek.AssemblyInfoInputs.cache
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\obj\Debug\netcoreapp2.2\ParkGeek.AssemblyInfo.cs
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\obj\Debug\netcoreapp2.2\ParkGeek.csproj.CopyComplete
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\obj\Debug\netcoreapp2.2\ParkGeek.dll
+C:\Users\Student\Workspace\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\obj\Debug\netcoreapp2.2\ParkGeek.pdb
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\bin\Debug\netcoreapp2.2\ParkGeek.deps.json
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\bin\Debug\netcoreapp2.2\ParkGeek.dll
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\bin\Debug\netcoreapp2.2\ParkGeek.pdb
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\bin\Debug\netcoreapp2.2\Security.dll
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\bin\Debug\netcoreapp2.2\Security.pdb
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\obj\Debug\netcoreapp2.2\ParkGeek.csprojAssemblyReference.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\obj\Debug\netcoreapp2.2\ParkGeek.csproj.CoreCompileInputs.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\obj\Debug\netcoreapp2.2\ParkGeek.AssemblyInfoInputs.cache
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\obj\Debug\netcoreapp2.2\ParkGeek.AssemblyInfo.cs
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\obj\Debug\netcoreapp2.2\ParkGeek.csproj.CopyComplete
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\obj\Debug\netcoreapp2.2\ParkGeek.dll
+C:\Users\Student\Workspace\Legacy Group Exercises\team4-c-week9-pair-exercises\12-Capstone\Park Geek\ParkGeek\obj\Debug\netcoreapp2.2\ParkGeek.pdb

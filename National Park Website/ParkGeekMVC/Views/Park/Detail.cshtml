@@ -1,0 +1,31 @@
+﻿@model ParkViewModel
+@section Title {
+    National Park
+}
+
+<div class="park_container">
+   <div class="top_container">
+    <div class="park_img_detail">
+        <img src="~/img/parks/@(Model.Park.ParkCode).jpg" alt="park_image" />
+    </div>
+    <div class="park_text">
+        <div>
+            <h2><b>@Model.Park.ParkName</b></h2>
+        </div>
+        <div class="park_info">
+            <p>@Model.Park.ParkName was founded in @Model.Park.YearFounded. There are @Model.Park.Acreage.ToString("N0") acres with @Model.Park.MilesOfTrail miles worth of trails. Each year there are @Model.Park.AnnualVisitors.ToString("N0") annual vistors.</p>
+            <ul>
+                <li>Entry Fee: @Model.Park.EntryFee</li>
+                <li>Number of Campsites: @Model.Park.NumberOfCampsites</li>
+                <li>Elevation: @Model.Park.ElevationInFeet.ToString("N0") ft</li>
+                <li>Animal Species: @Model.Park.NumberOfAnimalSpecies</li>
+            </ul>
+            <br />
+            <p>"@Model.Park.InspirationalQuote" -@Model.Park.QuoteSource</p>
+        </div>
+    </div>
+   </div>
+   <partial name="_Weather"/>
+   
+</div>
+

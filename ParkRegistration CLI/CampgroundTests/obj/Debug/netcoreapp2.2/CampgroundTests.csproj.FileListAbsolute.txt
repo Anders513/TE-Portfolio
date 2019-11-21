@@ -1,0 +1,17 @@
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\bin\Debug\netcoreapp2.2\CampgroundTests.deps.json
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\bin\Debug\netcoreapp2.2\CampgroundTests.runtimeconfig.json
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\bin\Debug\netcoreapp2.2\CampgroundTests.runtimeconfig.dev.json
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\bin\Debug\netcoreapp2.2\CampgroundTests.dll
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\bin\Debug\netcoreapp2.2\CampgroundTests.pdb
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\bin\Debug\netcoreapp2.2\Campground.dll
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\bin\Debug\netcoreapp2.2\Campground.pdb
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\obj\Debug\netcoreapp2.2\CampgroundTests.csprojAssemblyReference.cache
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\obj\Debug\netcoreapp2.2\CampgroundTests.csproj.CoreCompileInputs.cache
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\obj\Debug\netcoreapp2.2\CampgroundTests.AssemblyInfoInputs.cache
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\obj\Debug\netcoreapp2.2\CampgroundTests.AssemblyInfo.cs
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\obj\Debug\netcoreapp2.2\CampgroundTests.csproj.CopyComplete
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\obj\Debug\netcoreapp2.2\CampgroundTests.dll
+C:\Users\Student\Workspace\team8-c-week6-pair-exercises\09_Capstone\dotnet\CampgroundTests\obj\Debug\netcoreapp2.2\CampgroundTests.pdb
